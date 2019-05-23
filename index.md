@@ -21,7 +21,7 @@ CODING QUEST
 
 ## Instructions
 
-Will be updating soon!
+Will be updating soon !
 
 ## Page Layouts
 
